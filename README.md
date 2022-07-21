@@ -2,21 +2,31 @@
 
 # Description
 
-The datasets is collection of the 10000 movies collected from the movies database (TMDB). The columns for the datsets includes; id, imdb_id, popularity, budget, revenue, original_title, cast, homepage, director, tagline, keywords, overview, runtime, genres, production_companies, release_date, vote_count, vote_average, release_year, budget_adj and revenue_adj.
+- In this project, I will analyze a dataset and then communicate my findings about it. I will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
 
-# Questions for analysis
+# Setup/ Installation
 
-- what's the name of the directors of the top most popular movies?
-- what's the relationship between the year of release of the movie and its popularity?
-- How does the runtime of the movie affect its popularity?
+- windows/Mac/Linux PC
+- Numpy
+- Pandas
+- Matplotlib
+- CSV
 
-# Data wrangling and cleaning
+# Experimental design
 
-# Answer research questions.
-- research question 1
-- research question 2
-- research question 3
+- Import of the packages
+- Data wrangling
+- Data cleaning
+- Research questions
+- Conclusion
+- Limitations
 
-# Conclusions 
+# Bugs
 
-# Recomendations
+- There we no bugs
+
+# Technology Employed
+
+- Jupiter note book
+- Github
+
