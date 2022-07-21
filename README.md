@@ -1,2 +1,2 @@
-# Project Investigate a Dataset TMDB_Movie_data
+# Project: Investigate a Dataset TMDB_Movie_data
 The datasets is collection of the 10000 movies collected from the movies database (TMDB). The columns for the datsets includes; id, imdb_id, popularity, budget, revenue, original_title, cast, homepage, director, tagline, keywords, overview, runtime, genres, production_companies, release_date, vote_count, vote_average, release_year, budget_adj and revenue_adj.
